@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&family=Ubuntu:wght@500&display=swap');
+nav {
+  font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFF7D6  ;
+    
+  }
+  
+  .neubar {
+    background: #00393D;
+    box-shadow: 4px 6px 12px rgba(0, 0, 0, 0.4)
+  }
+  
+  .nav-item .hover {
+    border-radius: 4px;
+    background: linear-gradient(1deg, #755693, #A56FB0);
+  
+  }
+
+ /* styles.css atau dalam file .scss atau .sass */
+.custom-nav-link {
+    color: red; /* Ganti dengan warna yang diinginkan */
+  }
+  
